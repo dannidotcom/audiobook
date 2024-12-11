@@ -1,0 +1,3 @@
+Bonjour, ceci est un exemple de texte en français.
+Nous allons convertir ce texte en livre audio.
+Merci d'utiliser ce programme !
